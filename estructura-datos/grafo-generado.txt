@@ -1,0 +1,24 @@
+U
+Sucina Santomera 10000.0
+San-Javier Torre-Pacheco 10000.0
+Cieza Archena 15000.0
+Alcantarilla Jumilla 7000.0
+Murcia Cartagena 42000.0
+Cartagena Mazarrón 25000.0
+Lorca Molina 68000.0
+Alcantarilla Murcia 12000.0
+Murcia Molina 8000.0
+Lorca Águilas 30000.0
+Murcia Beniel 9500.0
+Lorca Alhama 18000.0
+Caravaca Murcia 75000.0
+Lorca Totana 12000.0
+San-Pedro Murcia 50000.0
+San-Javier San-Pedro 1000000000000.0
+Yecla Jumilla 20000.0
+Lorca Murcia 60000.0
+Jumilla Archena 28000.0
+Yecla Cieza 35000.0
+Cartagena Torre-Pacheco 15000.0
+Totana Alhama 10000.0
+Murcia Santomera 10000.0

@@ -1,0 +1,17 @@
+from lib.array_queue import ArrayQueue
+
+Q = ArrayQueue()
+Q.enqueue(5)
+Q.enqueue(3)
+Q.dequeue()
+Q.enqueue(2)
+Q.enqueue(8)
+Q.dequeue()
+Q.dequeue()
+Q.enqueue(9)
+Q.enqueue(1)
+Q.dequeue()
+Q.dequeue()
+Q.enqueue(4)
+Q.dequeue()
+Q.dequeue()

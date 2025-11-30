@@ -1,0 +1,16 @@
+U
+Preparata Chiang 7
+Garg Tamassia 1
+Goldwasser Tamassia 6
+Tollis Tamassia 6
+Vitter Preparata 4
+Goodrich Tamassia 1
+Goodrich Vitter 4
+Garg Goodrich 3
+Tamassia Preparata 9
+Tollis Vitter 1
+Tamassia Vitter 7
+Tamassia Chiang 8
+Goodrich Chiang 9
+Goldwasser Goodrich 5
+Snocynk Goodrich 2

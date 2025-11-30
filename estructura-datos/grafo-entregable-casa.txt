@@ -1,0 +1,24 @@
+U
+Lorca Alhama 18000
+Cieza Archena 15000
+Lorca Molina 68000
+Lorca Murcia 60000
+Totana Alhama 10000
+Murcia Beniel 9500
+San-Javier Torre-Pacheco 10000
+Jumilla Archena 28000
+Sucina Santomera 10000
+Caravaca Murcia 75000
+San-Javier San-Pedro 8000
+Alcantarilla Murcia 12000
+Yecla Jumilla 20000
+Cartagena Mazarrón 25000
+Murcia Santomera 10000
+Alcantarilla Jumilla 7000
+Lorca Totana 12000
+Cartagena Torre-Pacheco 15000
+Yecla Cieza 35000
+Murcia Cartagena 42000
+Lorca Águilas 30000
+Murcia Molina 8000
+San-Pedro Murcia 50000
